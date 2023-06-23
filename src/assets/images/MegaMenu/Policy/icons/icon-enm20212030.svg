@@ -1,0 +1,132 @@
+<svg id="icon-enm20212030" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.01" height="24" viewBox="0 0 24.01 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_828" data-name="Path 828" d="M8.97,0A2.141,2.141,0,0,0,8.3.13L12.01,12,15.71.13A2.195,2.195,0,0,0,15.04,0H8.97Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.799" cy="0.998" r="1.088" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cfdd31"/>
+      <stop offset="0.24" stop-color="#c9da32"/>
+      <stop offset="0.56" stop-color="#b8d535"/>
+      <stop offset="0.92" stop-color="#9ecb3b"/>
+      <stop offset="1" stop-color="#97c93d"/>
+    </radialGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_829" data-name="Path 829" d="M7.68.44,2.77,4.15a2.185,2.185,0,0,0-.47.52l9.71,7.34L8.29.13a2.4,2.4,0,0,0-.62.31" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-2" cx="0.638" cy="1.262" r="1.103" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7dc8a9"/>
+      <stop offset="0.15" stop-color="#77c7aa"/>
+      <stop offset="0.34" stop-color="#66c4af"/>
+      <stop offset="0.56" stop-color="#4cc0b6"/>
+      <stop offset="0.79" stop-color="#26bbc1"/>
+      <stop offset="1" stop-color="#00b6cc"/>
+    </radialGradient>
+    <clipPath id="clip-path-3">
+      <path id="Path_830" data-name="Path 830" d="M12,12H24a2.551,2.551,0,0,0-.09-.71l-1.88-6a2.4,2.4,0,0,0-.33-.63L11.99,12Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-3" cx="-0.255" cy="1.272" r="1.779" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f89820"/>
+      <stop offset="0.21" stop-color="#f79220"/>
+      <stop offset="0.48" stop-color="#f58120"/>
+      <stop offset="0.79" stop-color="#f26722"/>
+      <stop offset="1" stop-color="#f05023"/>
+    </radialGradient>
+    <clipPath id="clip-path-4">
+      <path id="Path_831" data-name="Path 831" d="M1.97,5.29l-1.88,6A2.5,2.5,0,0,0,0,12H12L2.29,4.66a2.552,2.552,0,0,0-.33.63" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-4" cx="1.07" cy="0.92" r="1.781" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2aace2"/>
+      <stop offset="0.32" stop-color="#24a8df"/>
+      <stop offset="0.74" stop-color="#149ed7"/>
+      <stop offset="1" stop-color="#0696d1"/>
+    </radialGradient>
+    <clipPath id="clip-path-5">
+      <path id="Path_832" data-name="Path 832" d="M12,12l9.71-7.34a2.419,2.419,0,0,0-.47-.52L16.33.44a2.244,2.244,0,0,0-.62-.31Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-5" cx="-0.17" cy="1.3" r="1.1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fbdb00"/>
+      <stop offset="0.33" stop-color="#f9d504"/>
+      <stop offset="0.76" stop-color="#f7c510"/>
+      <stop offset="1" stop-color="#f5b919"/>
+    </radialGradient>
+    <clipPath id="clip-path-6">
+      <path id="Path_833" data-name="Path 833" d="M12,12l9.71,7.34a2.944,2.944,0,0,0,.33-.63l1.88-6a2.5,2.5,0,0,0,.09-.71h-12Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-6" cx="-0.208" cy="0.358" r="1.779" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0679f"/>
+      <stop offset="0.21" stop-color="#ef6199"/>
+      <stop offset="0.48" stop-color="#ec5188"/>
+      <stop offset="0.79" stop-color="#e9386e"/>
+      <stop offset="1" stop-color="#e62358"/>
+    </radialGradient>
+    <clipPath id="clip-path-7">
+      <path id="Path_834" data-name="Path 834" d="M15.71,23.87a2.4,2.4,0,0,0,.62-.31l4.91-3.71a2.185,2.185,0,0,0,.47-.52L12,11.99l3.71,11.87Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-7" cx="-0.154" cy="0.315" r="1.1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bd5fa5"/>
+      <stop offset="0.26" stop-color="#b859a2"/>
+      <stop offset="0.59" stop-color="#aa489b"/>
+      <stop offset="0.96" stop-color="#942e8f"/>
+      <stop offset="1" stop-color="#922b8e"/>
+    </radialGradient>
+    <clipPath id="clip-path-8">
+      <path id="Path_835" data-name="Path 835" d="M0,12a2.551,2.551,0,0,0,.09.71l1.88,6a2.4,2.4,0,0,0,.33.63L12.01,12H0Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-8" cx="0.9" cy="-0.522" r="1.779" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0682c6"/>
+      <stop offset="0.42" stop-color="#057cc1"/>
+      <stop offset="0.97" stop-color="#046cb5"/>
+      <stop offset="1" stop-color="#046bb5"/>
+    </radialGradient>
+    <clipPath id="clip-path-9">
+      <path id="Path_836" data-name="Path 836" d="M8.29,23.87a2.195,2.195,0,0,0,.67.13h6.07a2.141,2.141,0,0,0,.67-.13L11.99,12,8.28,23.87Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-9" cx="0.369" cy="-0.298" r="1.088" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7760a7"/>
+      <stop offset="0.33" stop-color="#715aa4"/>
+      <stop offset="0.75" stop-color="#624a9c"/>
+      <stop offset="1" stop-color="#563d97"/>
+    </radialGradient>
+    <clipPath id="clip-path-10">
+      <path id="Path_837" data-name="Path 837" d="M2.29,19.34a2.185,2.185,0,0,0,.47.52l4.91,3.71a2.244,2.244,0,0,0,.62.31L12,12.01,2.29,19.35Z" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-10" cx="0.855" cy="-0.342" r="1.1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6272b6"/>
+      <stop offset="0.34" stop-color="#5c6db3"/>
+      <stop offset="0.79" stop-color="#4c60ac"/>
+      <stop offset="1" stop-color="#4259a8"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_325" data-name="Group 325">
+    <g id="Group_315" data-name="Group 315" clip-path="url(#clip-path)">
+      <rect id="Rectangle_1049" data-name="Rectangle 1049" width="7.42" height="12" transform="translate(8.29)" fill="url(#radial-gradient)"/>
+    </g>
+    <g id="Group_316" data-name="Group 316" clip-path="url(#clip-path-2)">
+      <rect id="Rectangle_1050" data-name="Rectangle 1050" width="9.71" height="11.87" transform="translate(2.29 0.13)" fill="url(#radial-gradient-2)"/>
+    </g>
+    <g id="Group_317" data-name="Group 317" clip-path="url(#clip-path-3)">
+      <rect id="Rectangle_1051" data-name="Rectangle 1051" width="12" height="7.34" transform="translate(12 4.66)" fill="url(#radial-gradient-3)"/>
+    </g>
+    <g id="Group_318" data-name="Group 318" clip-path="url(#clip-path-4)">
+      <rect id="Rectangle_1052" data-name="Rectangle 1052" width="12" height="7.34" transform="translate(0 4.66)" fill="url(#radial-gradient-4)"/>
+    </g>
+    <g id="Group_319" data-name="Group 319" clip-path="url(#clip-path-5)">
+      <rect id="Rectangle_1053" data-name="Rectangle 1053" width="9.71" height="11.87" transform="translate(12 0.13)" fill="url(#radial-gradient-5)"/>
+    </g>
+    <g id="Group_320" data-name="Group 320" clip-path="url(#clip-path-6)">
+      <rect id="Rectangle_1054" data-name="Rectangle 1054" width="12" height="7.34" transform="translate(12 12)" fill="url(#radial-gradient-6)"/>
+    </g>
+    <g id="Group_321" data-name="Group 321" clip-path="url(#clip-path-7)">
+      <rect id="Rectangle_1055" data-name="Rectangle 1055" width="9.71" height="11.87" transform="translate(12 12)" fill="url(#radial-gradient-7)"/>
+    </g>
+    <g id="Group_322" data-name="Group 322" clip-path="url(#clip-path-8)">
+      <rect id="Rectangle_1056" data-name="Rectangle 1056" width="12" height="7.34" transform="translate(0 12)" fill="url(#radial-gradient-8)"/>
+    </g>
+    <g id="Group_323" data-name="Group 323" clip-path="url(#clip-path-9)">
+      <rect id="Rectangle_1057" data-name="Rectangle 1057" width="7.42" height="12" transform="translate(8.29 12)" fill="url(#radial-gradient-9)"/>
+    </g>
+    <g id="Group_324" data-name="Group 324" clip-path="url(#clip-path-10)">
+      <rect id="Rectangle_1058" data-name="Rectangle 1058" width="9.71" height="11.87" transform="translate(2.29 12)" fill="url(#radial-gradient-10)"/>
+    </g>
+  </g>
+</svg>

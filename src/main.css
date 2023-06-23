@@ -1,0 +1,34 @@
+@import 'flexmonster/flexmonster.css';
+
+#lineThrough {
+  text-decoration: line-through;
+}
+
+html,
+body,
+:root {
+  height: 100% !important;
+  width: 100%;
+}
+
+#editor .MuiFormControlLabel-root {
+  display: flex !important;
+  justify-content: space-between !important;
+}
+
+#editor .MuiList-root div {
+  margin: 0 !important;
+  /* padding: 0 !important; */
+  padding-left: 0 !important;
+  padding-top: 2px;
+  padding-bottom: 3px;
+  width: 100% !important;
+  /* display: flex !important; */
+  /* justify-content: space-between ; */
+}
+
+.MuiBox-root css-4c14iv,
+.MuiBox-root css-jp17fm,
+.MuiBox-root .css-jp17fm {
+  margin: 0 !important;
+}
