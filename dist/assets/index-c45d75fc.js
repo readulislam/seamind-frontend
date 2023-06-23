@@ -1,0 +1,1 @@
+import{j as r}from"./index-0fc9848f.js";import{I as o}from"./IndicatorsView-861e6117.js";const a=({IndicatorHeaderTitle:s,IndicatorSubTitle:t})=>r.jsx(r.Fragment,{children:r.jsx(o,{IndicatorHeaderTitle:s,IndicatorSubTitle:t})});export{a as I};

@@ -1,0 +1,1 @@
+import{T as r}from"./Container-a3d911cd.js";import{B as a}from"./Button-29ade535.js";import{s as t}from"./index-0fc9848f.js";const i=t(r)(({theme:o})=>({fontSize:"36px",fontWeight:600,color:o.palette.primary.main})),e=t(a)(({theme:o})=>({background:o.palette.primary.light,color:o.palette.common.white}));export{i as C,e as a};
